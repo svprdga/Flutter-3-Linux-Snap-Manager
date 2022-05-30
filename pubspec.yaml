@@ -1,5 +1,5 @@
 name: flutter_3_linux
-description: A new Flutter project.
+description: A simple tutorial Flutter app for searching snap packages on Linux.
 publish_to: 'none'
 version: 1.0.0+1
 
