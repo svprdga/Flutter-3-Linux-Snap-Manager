@@ -1,16 +1,7 @@
-# flutter_3_linux
+# Create a Linux package browser in 5 minutes with Flutter 3
 
-A new Flutter project.
+You can see the explanatory article [here](https://davidserrano.io/create-a-linux-package-browser-in-5-minutes-with-flutter-3-using-ubuntu-visual-style-yaru).
 
-## Getting Started
+There is also a video version of the tutorial on [Youtube](https://youtu.be/QExuHkYFMQA) and [Odysee](https://odysee.com/@svprdga:d/create-a-linux-package-browser-in-5-minutes-with-flutter-3-using-ubuntu-visual-style-yaru).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you are interested visit my [blog](https://davidserrano.io/) to see other tutorials and articles related to mobile programming.
